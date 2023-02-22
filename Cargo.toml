@@ -18,8 +18,6 @@ cortex-m-rt = "0.6.14"
 embedded-hal = "0.2.5"
 panic-halt = "0.2.0"
 nb = "1.0.0"
-max7219-dot-matrix = { git = "https://github.com/ninjasource/max7219-dot-matrix.git" }
-
 
 # Access to the stm32f103 HAL.
 [dependencies.stm32f1xx-hal]
